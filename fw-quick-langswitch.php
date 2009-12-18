@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: fw-quick-langswitch
-Plugin URI: http://wwww.fairweb.fr/plugins-wordpress/fw-quick-langswitch/
+Plugin URI: http://www.fairweb.fr/plugins-wordpress/fw-quick-langswitch/
 Description: Display flags to switch languages. This plugin only uses the locale files from wordress or buddypress and eventually your theme for user to have the interface in his language. It does not provide content localization features.
 Author: Myriam Faulkner
 Version: 1.0
